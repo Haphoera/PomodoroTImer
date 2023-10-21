@@ -15,14 +15,14 @@ body {
 
 button,
 button:active {
-  background-color: rgb(219, 190, 171);
+  background-color: rgb(232,221,198);
   border: none;
   width: 42px;
   height: 40px;
   border-radius: 100%;
   text-align: center;
-  box-shadow: 0.2em 0.2em rgb(117, 102, 91);
-  -webkit-box-shadow: 0.2em 0.2em rgb(117, 102, 91);
+  box-shadow: 0.2em 0.2em rgb(54,46,42);
+  -webkit-box-shadow: 0.2em 0.2em rgb(54,46,42);
   -moz-box-shadow: 0.2em 0.2em rgb(194, 91, 44);
 }
 
@@ -40,7 +40,7 @@ button:focus {
   width: 350px;
   border-radius: 20px;
   padding: 30px;
-  box-shadow: 10px 10px rgb(120, 83, 94);
+  box-shadow: 10px 10px rgb(54,46,42);
 }
 
 /* Display + Stop/Start/Reset Controls */
